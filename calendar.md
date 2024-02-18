@@ -94,6 +94,8 @@ markmap:
 ### https://asio4all.org/#google_vignette
 ### https://github.com/facebookresearch/audiocraft/blob/main/docs/MUSICGEN.md
 ### https://musescore.com/sheetmusic
+### https://www.aiva.ai/
+### https://www.xda-developers.com/spleeter-music-ai-tool/
 
 ## Code assitant 
 ### Studio Bot :  https://developer.android.com/studio/preview/studio-bot
@@ -104,6 +106,9 @@ markmap:
 ### https://github.com/fish-shell/fish-shell
 
 ## Shell 
+### https://github.com/Ysurac/openmptcprouter
+### https://github.com/sirredbeard/Awesome-WSL
+### https://github.com/neptunsk1y/ignore
 ### https://atuin.sh/
 ### https://codeium.com/blog/termium-codeium-in-terminal-launch
 ### https://asciinema.org/
@@ -111,6 +116,17 @@ markmap:
 ### https://argbash.dev/
 ### https://docs.gitlab.com/ee/editor_extensions/gitlab_cli/
 ### https://github.com/SpatiumPortae/portal
+### https://github.com/muesli/duf
+### https://github.com/aria2/aria2
+### https://github.com/dalance/procs
+### https://github.com/nivekuil/rip
+### https://github.com/dduan/tre
+### https://github.com/aristocratos/bpytop
+### https://github.com/ogham/dog
+### https://github.com/browsh-org/browsh
+### https://github.com/jesseduffield/lazydocker
+### https://github.com/devforth/OnLogs
+### https://github.com/fathyb/carbonyl
 
 ## Dev 
 ### https://bunchapp.co/
@@ -146,10 +162,12 @@ markmap:
 ### https://digma.ai/
 ### https://osv.dev/
 ### https://socket.dev/
+### https://gitloop.com/
 
-## Automator/connector
+## Automator/connector/home hub
 ### https://www.make.com/en
 ### https://ifttt.com/
+### https://www.scrypted.app/
 
 ## NoCode
 ### https://baserow.io/
@@ -157,6 +175,8 @@ markmap:
 ### https://www.airtable.com/
 ### https://bubble.io/
 ### https://www.microsoft.com/fr-fr/power-platform/products/power-apps
+### https://www.codesmashapp.com/
+### https://www.shipyardapp.com/
 
 ## Writing
 ### https://vuepress.vuejs.org/
