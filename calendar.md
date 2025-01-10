@@ -5,7 +5,14 @@ markmap:
 ---
 # 
 
-## LLM
+## Notebook
+
+
+### Jupyter notebook : https://jupyter.org/
+### Google colab : https://colab.research.google.com/
+
+## LLMs
+### https://notebooklm.google.com/
 ### Chat GPT :  https://chat.openai.com/
 ### API OpenAI :  https://platform.openai.com/
 ### Plugins :  https://openai.com/blog/chatgpt-plugins
@@ -15,12 +22,14 @@ markmap:
 ### Faraday :  https://faraday.dev/
 ###  https://lmstudio.ai/
 ###  https://www.baseten.co/library/
+### https://huggingface.co
 
 ## Search engine
 ### You.com  https://you.com/?chatMode=default
 ### Bing Chat :  https://www.bing.com/chat
 
 ## Images
+### firefly : https://firefly.adobe.com/
 ### https://flair.ai/
 ### Looka :  https://looka.com/
 ### https://clipdrop.co/fr
@@ -28,6 +37,7 @@ markmap:
 ### https://thumbsup.tv/
 ### https://www.bing.com/images/create
 ### https://openai.com/dall-e-2?_sm_vck=NZ5ZF5n7nNnsN63qq4M1sn5N7PkS6F6W3ftf64Fk41PF5tQr6JNV
+### https://huggingface.co/spaces/AP123/IllusionDiffusion?_sm_vck=0FMqFNNHt2B1NjntWwFH4F0575d0SH7tVR3D6Br3j63FNWVVSPts
 ### https://creator.nightcafe.studio/
 ### https://imagen.research.google/
 ### https://pixart-alpha.github.io/
@@ -49,6 +59,7 @@ markmap:
 ### https://nextcloud.com/
 
 ## Video generation/edition
+### image to video : https://app.immersity.ai/upload
 ### https://lumiere-video.github.io/
 ### https://www.heygen.com/
 ### https://simplified.com/
@@ -64,14 +75,18 @@ markmap:
 ### https://sites.research.google/videopoet/
 ### https://rive.app/
 ### https://fliki.ai/
+### https://www.kapwing.com/
 
 ## Streaming/record
+### https://zencastr.com/
+### https://www.techsmith.fr/camtasia.html
 ### https://www.loom.com/
 ### https://vdo.ninja/
 ### https://restream.io/
 ### https://streamer.bot/
 ### https://www.own3d.pro/fr
 ### https://www.vmix.com/
+### https://owncast.online/
 ### https://obsproject.com/
 ### https://wirecast.io/en/
 ### https://www.avid.com/fr/pro-tools
@@ -84,10 +99,12 @@ markmap:
 ### https://github.com/EvanHahn/ffmpeg-buddy/blob/main/README.md
 
 ## Audio
+### https://www.assemblyai.com/
 ### https://www.suno.ai/?_sm_vck=rz0VSqPjDQ2n53FHvQ7ZNNvfHfSDPZH0z262WJq0JJHSqrffnPzf
 ### https://podcast.adobe.com/miccheck
 ### https://openai.com/research/whisper
-### https://elevenlabs.io/
+### https://elevenlabs.io/dubbing
+### arabic speech to text : https://sonix.ai/
 ### https://lifeiteng.github.io/valle/index.html
 ### https://podcast.adobe.com/enhance
 ### https://www.izotope.com/en/products/rx.html
@@ -104,8 +121,15 @@ markmap:
 ### Tabnine :  https://www.tabnine.com/
 ### https://vercel.com/
 ### https://github.com/fish-shell/fish-shell
+### https://supermaven.com/
+
+## AI Web creation 
+### https://bolt.new/
+### https://v0.dev/
+### [github spark](https://githubnext.com/projects/github-spark)
 
 ## Shell 
+### WEB BENCHMARK : https://github.com/hatoo/oha
 ### https://github.com/Ysurac/openmptcprouter
 ### https://github.com/sirredbeard/Awesome-WSL
 ### https://github.com/neptunsk1y/ignore
