@@ -26,6 +26,7 @@ markmap:
 ## Search engine
 ### You.com : [https://you.com/?chatMode=default](https://you.com/?chatMode=default)
 ### Bing Chat : [https://www.bing.com/chat](https://www.bing.com/chat)
+### SourceGraph : [https://sourcegraph.com/](https://sourcegraph.com/)
 
 ## Images
 ### Firefly : [https://firefly.adobe.com/](https://firefly.adobe.com/)
@@ -75,6 +76,7 @@ markmap:
 ### Rive : [https://rive.app/](https://rive.app/)
 ### Fliki : [https://fliki.ai/](https://fliki.ai/)
 ### Kapwing : [https://www.kapwing.com/](https://www.kapwing.com/)
+### Veo2 google : [https://deepmind.google/technologies/veo/veo-2/?_sm_vck=fS0vr23Tk3QTrVM6Tfw5j1NqVHV0Z3t74nfrQWQrfwHr2rTr7vsH](https://deepmind.google/technologies/veo/veo-2/?_sm_vck=fS0vr23Tk3QTrVM6Tfw5j1NqVHV0Z3t74nfrQWQrfwHr2rTr7vsH)
 
 ## Streaming/record
 ### Zencastr : [https://zencastr.com/](https://zencastr.com/)
@@ -216,6 +218,7 @@ markmap:
 ### Gradle MkDocs Plugin : [https://github.com/xvik/gradle-mkdocs-plugin](https://github.com/xvik/gradle-mkdocs-plugin)
 ### Dev.to : [https://dev.to/](https://dev.to/)
 ### Substack : [https://substack.com/home-i](https://substack.com/home-i)
+### Strapi : [https://strapi.io/](https://strapi.io/)
 
 ## Notes/Slides/Audience interactive
 ### Obsidian : [https://obsidian.md/](https://obsidian.md/)
@@ -268,6 +271,7 @@ markmap:
 ### Visual Paradigm : [https://www.visual-paradigm.com/](https://www.visual-paradigm.com/)
 ### ArchiPeg : [https://www.archipeg.com/](https://www.archipeg.com/)
 ### Aplas : [https://aplas.com/](https://aplas.com/)
+### Thonny : [https://thonny.org/](https://thonny.org/)
 
 ## IDE (Offline)
 ### Visual Paradigm : [https://www.visual-paradigm.com/](https://www.visual-paradigm.com/)
