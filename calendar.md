@@ -11,6 +11,7 @@ markmap:
 ### Google colab : [https://colab.research.google.com/](https://colab.research.google.com/)
 
 ## LLMs
+### BitNet.cpp : [https://github.com/microsoft/BitNet](https://github.com/microsoft/BitNet)
 ### Notebook LM : [https://notebooklm.google.com/](https://notebooklm.google.com/)
 ### Chat GPT : [https://chat.openai.com/](https://chat.openai.com/)
 ### API OpenAI : [https://platform.openai.com/](https://platform.openai.com/)
@@ -27,6 +28,7 @@ markmap:
 ### You.com : [https://you.com/?chatMode=default](https://you.com/?chatMode=default)
 ### Bing Chat : [https://www.bing.com/chat](https://www.bing.com/chat)
 ### SourceGraph : [https://sourcegraph.com/](https://sourcegraph.com/)
+### grep.app : [https://grep.app/](https://grep.app/)
 
 ## Images
 ### Firefly : [https://firefly.adobe.com/](https://firefly.adobe.com/)
@@ -77,6 +79,12 @@ markmap:
 ### Fliki : [https://fliki.ai/](https://fliki.ai/)
 ### Kapwing : [https://www.kapwing.com/](https://www.kapwing.com/)
 ### Veo2 google : [https://deepmind.google/technologies/veo/veo-2/?_sm_vck=fS0vr23Tk3QTrVM6Tfw5j1NqVHV0Z3t74nfrQWQrfwHr2rTr7vsH](https://deepmind.google/technologies/veo/veo-2/?_sm_vck=fS0vr23Tk3QTrVM6Tfw5j1NqVHV0Z3t74nfrQWQrfwHr2rTr7vsH)
+### Sora : [https://openai.com/index/sora/?_sm_vck=76W6RrBsnmqDrBS55VFBqSQ2m5555NJlMmNrj6f1RmnRrS3sSM2r](https://openai.com/index/sora/?_sm_vck=76W6RrBsnmqDrBS55VFBqSQ2m5555NJlMmNrj6f1RmnRrS3sSM2r)
+
+## DeepFake 
+
+### DeepFaceLab : [https://github.com/iperov/DeepFaceLab](https://github.com/iperov/DeepFaceLab)
+### Deep-Live-cam : [https://github.com/hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)
 
 ## Streaming/record
 ### Zencastr : [https://zencastr.com/](https://zencastr.com/)
@@ -100,6 +108,8 @@ markmap:
 ### FFmpeg Buddy : [https://github.com/EvanHahn/ffmpeg-buddy/blob/main/README.md](https://github.com/EvanHahn/ffmpeg-buddy/blob/main/README.md)
 
 ## Audio
+
+### WhisperX [https://github.com/m-bain/whisperX](https://github.com/m-bain/whisperX)
 ### AssemblyAI : [https://www.assemblyai.com/](https://www.assemblyai.com/)
 ### Suno : [https://www.suno.ai/?_sm_vck=rz0VSqPjDQ2n53FHvQ7ZNNvfHfSDPZH0z262WJq0JJHSqrffnPzf](https://www.suno.ai/?_sm_vck=rz0VSqPjDQ2n53FHvQ7ZNNvfHfSDPZH0z262WJq0JJHSqrffnPzf)
 ### Adobe Mic Check : [https://podcast.adobe.com/miccheck](https://podcast.adobe.com/miccheck)
@@ -154,6 +164,7 @@ markmap:
 ### Carbonyl : [https://github.com/fathyb/carbonyl](https://github.com/fathyb/carbonyl)
 
 ## Dev 
+### Webvm [https://webvm.io/](https://webvm.io/)
 ### Bunch : [https://bunchapp.co/](https://bunchapp.co/)
 ### Proxyman : [https://proxyman.io/download](https://proxyman.io/download)
 ### LocalSend : [https://github.com/localsend/localsend](https://github.com/localsend/localsend)
@@ -180,6 +191,8 @@ markmap:
 ### DiffNow : [https://www.diffnow.com/compare-clips](https://www.diffnow.com/compare-clips)
 ### AI to SQL : [https://www.ai2sql.io/](https://www.ai2sql.io/)
 ### Ansible AI : [https://ansible.ai](https://ansible.ai)
+### WinUtil [https://github.com/ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil)
+### OFGB [https://github.com/xM4ddy/OFGB](https://github.com/xM4ddy/OFGB)
 
 ## CICD
 ### Snyk : [https://snyk.io/fr/platform/deepcode-ai/](https://snyk.io/fr/platform/deepcode-ai/)
