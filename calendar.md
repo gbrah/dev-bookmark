@@ -23,6 +23,8 @@ markmap:
 ### LM Studio : [https://lmstudio.ai/](https://lmstudio.ai/)
 ### BaseTen : [https://www.baseten.co/library/](https://www.baseten.co/library/)
 ### Hugging Face : [https://huggingface.co](https://huggingface.co)
+### Promptfoo: LLM evals & red teaming : [https://github.com/promptfoo/promptfoo](https://github.com/promptfoo/promptfoo)
+### Claude : [https://claude.ai/?_sm_nck=1](https://claude.ai/?_sm_nck=1)
 
 ## Search engine
 ### You.com : [https://you.com/?chatMode=default](https://you.com/?chatMode=default)
