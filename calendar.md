@@ -25,6 +25,10 @@ markmap:
 ### Hugging Face : [https://huggingface.co](https://huggingface.co)
 ### Promptfoo: LLM evals & red teaming : [https://github.com/promptfoo/promptfoo](https://github.com/promptfoo/promptfoo)
 ### Claude : [https://claude.ai/?_sm_nck=1](https://claude.ai/?_sm_nck=1)
+### DeepSeek : [https://www.deepseek.com/](https://www.deepseek.com/)
+
+## Context Aware Frameworks
+### Agent Inbox [https://github.com/langchain-ai/agent-inbox](https://github.com/langchain-ai/agent-inbox)
 
 ## Search engine
 ### You.com : [https://you.com/?chatMode=default](https://you.com/?chatMode=default)
@@ -32,7 +36,10 @@ markmap:
 ### SourceGraph : [https://sourcegraph.com/](https://sourcegraph.com/)
 ### grep.app : [https://grep.app/](https://grep.app/)
 
+
 ## Images
+### Stablediffusionweb : [https://stablediffusionweb.com/prompts/gallery?_sm_nck=1](https://stablediffusionweb.com/prompts/gallery?_sm_nck=1)
+### Stability Matrix : [https://github.com/LykosAI/StabilityMatrix](https://github.com/LykosAI/StabilityMatrix)
 ### Firefly : [https://firefly.adobe.com/](https://firefly.adobe.com/)
 ### Flair : [https://flair.ai/](https://flair.ai/)
 ### Looka : [https://looka.com/](https://looka.com/)
@@ -41,6 +48,7 @@ markmap:
 ### ThumbsUp : [https://thumbsup.tv/](https://thumbsup.tv/)
 ### Bing Image Creator : [https://www.bing.com/images/create](https://www.bing.com/images/create)
 ### DALL-E 2 : [https://openai.com/dall-e-2?_sm_vck=NZ5ZF5n7nNnsN63qq4M1sn5N7PkS6F6W3ftf64Fk41PF5tQr6JNV](https://openai.com/dall-e-2?_sm_vck=NZ5ZF5n7nNnsN63qq4M1sn5N7PkS6F6W3ftf64Fk41PF5tQr6JNV)
+### dzine : [https://www.dzine.ai/?_sm_nck=1](https://www.dzine.ai/?_sm_nck=1)
 ### Illusion Diffusion : [https://huggingface.co/spaces/AP123/IllusionDiffusion?_sm_vck=0FMqFNNHt2B1NjntWwFH4F0575d0SH7tVR3D6Br3j63FNWVVSPts](https://huggingface.co/spaces/AP123/IllusionDiffusion?_sm_vck=0FMqFNNHt2B1NjntWwFH4F0575d0SH7tVR3D6Br3j63FNWVVSPts)
 ### NightCafe : [https://creator.nightcafe.studio/](https://creator.nightcafe.studio/)
 ### Imagen : [https://imagen.research.google/](https://imagen.research.google/)
@@ -63,6 +71,7 @@ markmap:
 ### Nextcloud : [https://nextcloud.com/](https://nextcloud.com/)
 
 ## Video generation/edition
+### KlinGai : [https://klingai.com/?_sm_nck=1](https://klingai.com/?_sm_nck=1)
 ### Image to Video : [https://app.immersity.ai/upload](https://app.immersity.ai/upload)
 ### Lumiere Video : [https://lumiere-video.github.io/](https://lumiere-video.github.io/)
 ### HeyGen : [https://www.heygen.com/](https://www.heygen.com/)
@@ -202,6 +211,7 @@ markmap:
 ### OSV : [https://osv.dev/](https://osv.dev/)
 ### Socket : [https://socket.dev/](https://socket.dev/)
 ### Gitloop : [https://gitloop.com/](https://gitloop.com/)
+### Dagger : [https://dagger.io/](https://dagger.io/)
 
 ## Automator/connector/home hub
 ### Make : [https://www.make.com/en](https://www.make.com/en)
@@ -325,3 +335,9 @@ markmap:
 ### Add to Calendar : [https://www.addevent.com/](https://www.addevent.com/)
 ### Create Feed : [https://createfeed.fivefilters.org/](https://createfeed.fivefilters.org/)
 ### Temp Mail : [https://temp-mail.org/en/](https://temp-mail.org/en/)
+### Keak :  [https://keak.com/](https://keak.com/)
+
+
+## Newsletters
+### alphasignal : [https://alphasignal.ai/](https://alphasignal.ai/)
+### daily.dev : [https://daily.dev/fr-fr](https://daily.dev/fr-fr)
