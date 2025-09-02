@@ -5,6 +5,10 @@ markmap:
 ---
 # 
 
+## Cloud Provider
+
+### Railway : [https://railway.com/pricing](https://railway.com/pricing)
+
 ## Notebook
 
 ### Jupyter notebook : [https://jupyter.org/](https://jupyter.org/)
@@ -26,6 +30,9 @@ markmap:
 ### Promptfoo: LLM evals & red teaming : [https://github.com/promptfoo/promptfoo](https://github.com/promptfoo/promptfoo)
 ### Claude : [https://claude.ai/?_sm_nck=1](https://claude.ai/?_sm_nck=1)
 ### DeepSeek : [https://www.deepseek.com/](https://www.deepseek.com/)
+### LiteLLM : [https://www.litellm.ai/](https://www.litellm.ai/)
+### Manus : [https://manus.im/?_sm_vck=TsJL1fqLjvqnksvrFj1TLMjVpP77Q4p6NLtkQRNFktR1fVMf5D6H](https://manus.im/?_sm_vck=TsJL1fqLjvqnksvrFj1TLMjVpP77Q4p6NLtkQRNFktR1fVMf5D6H)
+### Grok : [https://grok.com/](https://grok.com/)
 
 ## Context Aware Frameworks
 ### Agent Inbox [https://github.com/langchain-ai/agent-inbox](https://github.com/langchain-ai/agent-inbox)
@@ -38,6 +45,8 @@ markmap:
 
 
 ## Images
+
+### QRCODE Image integration : [https://qrbtf.com/en](https://qrbtf.com/en)
 ### Stablediffusionweb : [https://stablediffusionweb.com/prompts/gallery?_sm_nck=1](https://stablediffusionweb.com/prompts/gallery?_sm_nck=1)
 ### Stability Matrix : [https://github.com/LykosAI/StabilityMatrix](https://github.com/LykosAI/StabilityMatrix)
 ### Firefly : [https://firefly.adobe.com/](https://firefly.adobe.com/)
@@ -69,6 +78,12 @@ markmap:
 ### Leviia : [https://www.leviia.com/](https://www.leviia.com/)
 ### Gitee : [https://gitee.com/](https://gitee.com/)
 ### Nextcloud : [https://nextcloud.com/](https://nextcloud.com/)
+
+## Node based genAI
+
+### N8N : [https://n8n.io/](https://n8n.io/)
+### comfyui : []()
+### UIpath : [https://www.uipath.com/](https://www.uipath.com/)
 
 ## Video generation/edition
 ### KlinGai : [https://klingai.com/?_sm_nck=1](https://klingai.com/?_sm_nck=1)
@@ -122,7 +137,7 @@ markmap:
 
 ### WhisperX [https://github.com/m-bain/whisperX](https://github.com/m-bain/whisperX)
 ### AssemblyAI : [https://www.assemblyai.com/](https://www.assemblyai.com/)
-### Suno : [https://www.suno.ai/?_sm_vck=rz0VSqPjDQ2n53FHvQ7ZNNvfHfSDPZH0z262WJq0JJHSqrffnPzf](https://www.suno.ai/?_sm_vck=rz0VSqPjDQ2n53FHvQ7ZNNvfHfSDPZH0z262WJq0JJHSqrffnPzf)
+### Suno : [https://suno.com/](https://suno.com/)
 ### Adobe Mic Check : [https://podcast.adobe.com/miccheck](https://podcast.adobe.com/miccheck)
 ### Whisper : [https://openai.com/research/whisper](https://openai.com/research/whisper)
 ### Eleven Labs : [https://elevenlabs.io/dubbing](https://elevenlabs.io/dubbing)
@@ -148,7 +163,8 @@ markmap:
 ## AI Web creation 
 ### Bolt : [https://bolt.new/](https://bolt.new/)
 ### V0 : [https://v0.dev/](https://v0.dev/)
-### GitHub Spark : [https://githubnext.com/projects/github-spark](https://githubnext.com/projects/github-spark)
+### GitHub Spark : [https://spark.githubnext.com/](https://spark.githubnext.com/)
+### Magic Pattern : [https://www.magicpatterns.com/](https://www.magicpatterns.com/)
 
 ## Shell 
 ### Web Benchmark : [https://github.com/hatoo/oha](https://github.com/hatoo/oha)
@@ -173,6 +189,7 @@ markmap:
 ### LazyDocker : [https://github.com/jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker)
 ### OnLogs : [https://github.com/devforth/OnLogs](https://github.com/devforth/OnLogs)
 ### Carbonyl : [https://github.com/fathyb/carbonyl](https://github.com/fathyb/carbonyl)
+### Warp : [https://www.warp.dev/](https://www.warp.dev/)
 
 ## Dev 
 ### Webvm [https://webvm.io/](https://webvm.io/)
@@ -212,6 +229,9 @@ markmap:
 ### Socket : [https://socket.dev/](https://socket.dev/)
 ### Gitloop : [https://gitloop.com/](https://gitloop.com/)
 ### Dagger : [https://dagger.io/](https://dagger.io/)
+### MicroTica : [https://www.microtica.com/free-trial](https://www.microtica.com/free-trial)
+### Okta : [https://www.okta.com/fr-fr/](https://www.okta.com/fr-fr/)
+### Load testing : [https://k6.io/](https://k6.io/)
 
 ## Automator/connector/home hub
 ### Make : [https://www.make.com/en](https://www.make.com/en)
@@ -244,6 +264,7 @@ markmap:
 ### Dev.to : [https://dev.to/](https://dev.to/)
 ### Substack : [https://substack.com/home-i](https://substack.com/home-i)
 ### Strapi : [https://strapi.io/](https://strapi.io/)
+### Mkdok : [https://squidfunk.github.io/mkdocs-material/](https://squidfunk.github.io/mkdocs-material/)
 
 ## Notes/Slides/Audience interactive
 ### Obsidian : [https://obsidian.md/](https://obsidian.md/)
@@ -305,6 +326,7 @@ markmap:
 ### Fleet : [https://www.jetbrains.com/fleet/](https://www.jetbrains.com/fleet/)
 ### NeoVim : [https://github.com/neovim/neovim](https://github.com/neovim/neovim)
 ### BlueJ : [https://www.bluej.org/](https://www.bluej.org/)
+### Cline : [https://cline.bot/faq](https://cline.bot/faq)
 
 ## IDE (Online)
 ### KotlinLang : [https://play.kotlinlang.org/](https://play.kotlinlang.org/)
@@ -320,7 +342,7 @@ markmap:
 ### JavaTutor : [https://pythontutor.com/java.html](https://pythontutor.com/java.html)
 ### CodeAnywhere : [https://codeanywhere.com/](https://codeanywhere.com/)
 ### Flutter Flow : [https://flutterflow.io/](https://flutterflow.io/)
-### Cursor : [https://cursor.sh/](https://cursor.sh/)
+### Cursor : [https://cursor.sh/](https://cursor.sh/) 
 ### AutoCode : [https://autocode.com/](https://autocode.com/)
 ### Mutable : [https://mutable.ai/](https://mutable.ai/)
 
